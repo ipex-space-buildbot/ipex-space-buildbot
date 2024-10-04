@@ -3,7 +3,7 @@
 Why don’t buildbots ever get stressed?
 > We’re always working from the master
 
-Favorite CLI command
+Favorite CLI command <br/>
 `git add --all && git commit --amend --no-edit && git push -f`
 
 <!---
